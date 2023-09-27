@@ -17,7 +17,7 @@ package org.japo.java.main;
 
 /**
  *
- * @author Abel Alós - abealoher@alo.edu.gva.es
+ * @author Abel Alós - abealoher@alu.edu.gva.es
  */
 public class Main {
 
@@ -25,8 +25,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hola Mundo");
+        String nombre = "abealoher";
+        System.out.println("Hola Mundo" + nombre);
     }
     
 }
